@@ -1,0 +1,1 @@
+It's a Vala wrapper around the Last.fm API.
